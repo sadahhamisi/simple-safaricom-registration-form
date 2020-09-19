@@ -1,6 +1,8 @@
 # simple-safaricom-registration-form.
 <html>
 <head>
+<link rel="stylesheet" href="simple.css" />
+</head>
 <tittle>page tittle<tittle>
 <h1>SUBSCRIBER REGISTRATION FORM</h1>
 	 <hr>
